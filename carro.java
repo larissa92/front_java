@@ -5,3 +5,7 @@ public class Carro {
  // Construtor personalizado
     public Carro(String marca, String modelo, int ano) {
         this.marca = marca;
+ this.modelo = modelo;
+        this.ano = ano;
+    }
+}
